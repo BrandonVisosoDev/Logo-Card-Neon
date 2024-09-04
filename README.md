@@ -1,2 +1,15 @@
-# Logo-Card-Neon
-Un bonito logo de una marca sprite que al pasar el cursor suelta la tarjeta con la informacion. Puedes crear varias con diferentes, te invito a probarlo.
+# 📝 Marcas con circulo neon y su descripcion.
+
+
+## 🛠️ Tecnologías Utilizadas
+
+- **HTML**: Lenguaje principal para la estructura.
+- **CSS**: Usado para darle los estilos necesarios.
+  
+
+
+
+
+
+
+
